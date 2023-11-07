@@ -1,4 +1,3 @@
-# 💫About Me :
 # 💫Hello, Nice to meet you!
 🔭 I'm a student of [University of Information and Technology - VNUHCM.](https://www.uit.edu.vn/)
 
